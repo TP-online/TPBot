@@ -67,3 +67,5 @@ likewise some platforms will likely be removed due to patches.
 This bot is free to use during beta testing but will be a paid 
 service once we roll out the production version, but that's still 
 a ways away! So Enjoy and Happy Pirating!
+
+Example of bot running here:  https://youtu.be/lpiw6hDdhi0
