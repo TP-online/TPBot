@@ -68,4 +68,4 @@ This bot is free to use during beta testing but will be a paid
 service once we roll out the production version, but that's still 
 a ways away! So Enjoy and Happy Pirating!
 
-Example of bot running here:  https://youtu.be/lpiw6hDdhi0
+Example of bot running here:  https://youtu.be/sg_IffqM7AE
