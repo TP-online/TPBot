@@ -1,7 +1,7 @@
 # Traffic-Pirate-Bot
 automated bot for generating traffic in more of a 'black hat' way.
 
-**Referencethe ***__README PDF__*** for a better overview and a more in depth look into our project and all of its capabilities.**
+**Reference the ***__README PDF__*** for a better overview and a more in depth look into our project and all of its capabilities.**
 
 THANK YOU FOR PURCHASING THIS TOOL and/or PARTICIPATING IN THE INFINATLY HELPFUL BETA PROGRAM. IF YOU HAVE ANY 
 QUESTIONS YOU CAN REACH ME ON TELEGRAM @TP-Dev
