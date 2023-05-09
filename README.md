@@ -69,3 +69,5 @@ service once we roll out the production version, but that's still
 a ways away! So Enjoy and Happy Pirating!
 
 Example of bot running here:  https://youtu.be/sg_IffqM7AE
+
+and here a video of the new Reddit account creator working hard! https://youtu.be/XLIYRm51MDw
