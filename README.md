@@ -1,9 +1,9 @@
 # Traffic-Pirate-Bot
 automated bot for generating traffic in more of a 'black hat' way.
 
-COME FU** WITH US AND YOU'LL BE STACKIN' SIMPS TO THE CEILING!
+**Referencethe __README PDF__ for a better overview and a more in depth look into our project and all of its capabilities.**
 
-THANK YOU FOR PURCHASING THIS TOOL. IF YOU HAVE ANY 
+THANK YOU FOR PURCHASING THIS TOOL and/or PARTICIPATING IN THE INFINATLY HELPFUL BETA PROGRAM. IF YOU HAVE ANY 
 QUESTIONS YOU CAN REACH ME ON TELEGRAM @TP-Dev
 
 Written in React.js and C# programming language.
